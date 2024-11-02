@@ -10,18 +10,30 @@ namespace DarsTMI
     {
         static void Main(string[] args)
         {
-            int a = 24, b = 25;
+            int a = 24, b = 36, c=72, d=96;
 
-            while(a!=b)
+            int ab = ekub(a, b);
+            int cd= ekub(d, c);
+            int natija = ekub(ab, cd);
+            
+            Console.WriteLine("ekub = "+ natija);
+            Console.ReadKey();  
+
+        }
+        public static int ekub(int a,int b)
+        {
+            while (a != b)
             {
                 if (a > b)
                     a = a - b;
                 else
-                    b= b - a;   
+                    b = b - a;
             }
-            Console.WriteLine("ekub = "+ a);
-            Console.ReadKey();  
+            return a;
 
         }
+
+
+
     }
 }
