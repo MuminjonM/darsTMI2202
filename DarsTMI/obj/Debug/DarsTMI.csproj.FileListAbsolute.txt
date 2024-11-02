@@ -1,0 +1,8 @@
+D:\DarsTMI\DarsTMI\bin\Debug\DarsTMI.exe.config
+D:\DarsTMI\DarsTMI\bin\Debug\DarsTMI.exe
+D:\DarsTMI\DarsTMI\bin\Debug\DarsTMI.pdb
+D:\DarsTMI\DarsTMI\obj\Debug\DarsTMI.csproj.AssemblyReference.cache
+D:\DarsTMI\DarsTMI\obj\Debug\DarsTMI.csproj.SuggestedBindingRedirects.cache
+D:\DarsTMI\DarsTMI\obj\Debug\DarsTMI.csproj.CoreCompileInputs.cache
+D:\DarsTMI\DarsTMI\obj\Debug\DarsTMI.exe
+D:\DarsTMI\DarsTMI\obj\Debug\DarsTMI.pdb
