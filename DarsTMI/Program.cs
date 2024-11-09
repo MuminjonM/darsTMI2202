@@ -12,11 +12,11 @@ namespace DarsTMI
         {
             int a = 24, b = 36, c=72, d=96;
 
-            int ab = ekub(a, b);
-            int cd= ekub(d, c);
-            int natija = ekub(ab, cd);
             
-            Console.WriteLine("ekub = "+ natija);
+            
+            Console.WriteLine("ekub = "+ ekub(a,b));
+            Console.WriteLine("ekuk = " + ekuk(a, b));
+
             Console.ReadKey();  
 
         }
@@ -33,7 +33,11 @@ namespace DarsTMI
 
         }
 
-
+        public static int ekuk(int a,int b) { 
+        
+        return a*b/ekub(a,b);
+        
+        }
 
     }
 }

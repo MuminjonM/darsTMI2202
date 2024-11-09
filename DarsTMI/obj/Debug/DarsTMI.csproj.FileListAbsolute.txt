@@ -6,3 +6,11 @@ D:\DarsTMI\DarsTMI\obj\Debug\DarsTMI.csproj.SuggestedBindingRedirects.cache
 D:\DarsTMI\DarsTMI\obj\Debug\DarsTMI.csproj.CoreCompileInputs.cache
 D:\DarsTMI\DarsTMI\obj\Debug\DarsTMI.exe
 D:\DarsTMI\DarsTMI\obj\Debug\DarsTMI.pdb
+C:\Users\MSI\Desktop\person2\darsTMI2202\DarsTMI\bin\Debug\DarsTMI.exe.config
+C:\Users\MSI\Desktop\person2\darsTMI2202\DarsTMI\bin\Debug\DarsTMI.exe
+C:\Users\MSI\Desktop\person2\darsTMI2202\DarsTMI\bin\Debug\DarsTMI.pdb
+C:\Users\MSI\Desktop\person2\darsTMI2202\DarsTMI\obj\Debug\DarsTMI.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\person2\darsTMI2202\DarsTMI\obj\Debug\DarsTMI.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\person2\darsTMI2202\DarsTMI\obj\Debug\DarsTMI.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\person2\darsTMI2202\DarsTMI\obj\Debug\DarsTMI.exe
+C:\Users\MSI\Desktop\person2\darsTMI2202\DarsTMI\obj\Debug\DarsTMI.pdb
