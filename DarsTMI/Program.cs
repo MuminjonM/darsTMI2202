@@ -16,6 +16,7 @@ namespace DarsTMI
             
             Console.WriteLine("ekub = "+ ekub(a,b));
             Console.WriteLine("ekuk = " + ekuk(a, b));
+            Console.WriteLine("ekuk = " + ekuk(c, d));
 
             Console.ReadKey();  
 

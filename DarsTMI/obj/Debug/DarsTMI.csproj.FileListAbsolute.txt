@@ -14,3 +14,6 @@ C:\Users\MSI\Desktop\person2\darsTMI2202\DarsTMI\obj\Debug\DarsTMI.csproj.Sugges
 C:\Users\MSI\Desktop\person2\darsTMI2202\DarsTMI\obj\Debug\DarsTMI.csproj.CoreCompileInputs.cache
 C:\Users\MSI\Desktop\person2\darsTMI2202\DarsTMI\obj\Debug\DarsTMI.exe
 C:\Users\MSI\Desktop\person2\darsTMI2202\DarsTMI\obj\Debug\DarsTMI.pdb
+C:\Users\user\Desktop\git in class\darsTMI2202\DarsTMI\bin\Debug\DarsTMI.exe.config
+C:\Users\user\Desktop\git in class\darsTMI2202\DarsTMI\obj\Debug\DarsTMI.exe
+C:\Users\user\Desktop\git in class\darsTMI2202\DarsTMI\obj\Debug\DarsTMI.pdb
